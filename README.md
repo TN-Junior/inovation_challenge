@@ -94,9 +94,9 @@ ambiguous_ip = "25525511135"
 
 ```
 .
-├── enderecos.py         # Script com a lógica principal e testes de exemplo
-├── test_enderecos.py    # Arquivo com testes automatizados usando pytest
-└── README.md            # Este arquivo
+├── enderecos.py         # Script with main logic and example tests
+├── test_enderecos.py    # File with automated tests using pytest
+└── README.md            # This file
 ```
 
 ---
@@ -147,5 +147,11 @@ pytest
 ```
 
 ---
+
+Results:
+
+<img width="719" alt="image" src="https://github.com/user-attachments/assets/29d29088-21f6-467a-8aad-27bc26e69f0e" />
+
+
 
 
