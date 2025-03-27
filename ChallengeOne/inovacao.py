@@ -8,7 +8,7 @@ def calcular_nivel_de_inovacao(historico: list[int], impulsionadores: set[int], 
     return nivel_inovacao
 
 
-# Teste com novo exemplo
+# Teste Básico
 if __name__ == "__main__":
     entrada = {
         "historico": [100, 200, 300, 100, 400],
