@@ -31,6 +31,8 @@ python inovacao.py
 ```
 The script will print the result of a sample input in the terminal.
 
+
+
 ### Example
 ```bash
 history = [100, 200, 300, 100, 400]
@@ -130,6 +132,17 @@ pip install pytest
 ### 2. Create a test file (e.g., `test_enderecos.py`) and run:
 
 ```bash
+pytest
+```
+
+### Run the tests
+Being at the root of the project:
+```bash
+pytest
+````
+Or run just the tests from one folder:
+```bash
+cd ChallengeOne
 pytest
 ```
 
